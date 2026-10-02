@@ -8,7 +8,7 @@ Track books, courses, articles and videos, monitor your progress, manage learnin
 
 ### 🔗 Live Demo
 
-[View Live Demo]()
+[View Live Demo](https://johnyisbackk.github.io/js-reading-learning-tracker-pro/)
 
 <br>
 
